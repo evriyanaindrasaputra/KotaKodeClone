@@ -1,6 +1,6 @@
 const SectionFour = () => {
   return (
-    <div className=" w-6/12 mx-auto bg-green-100 flex items-center py-3 px-3 my-8">
+    <div className=" w-6/12 mx-auto bg-green-100 flex items-center py-3 px-3 my-8 rounded-xl">
       <img
         className="w-7/12"
         src="https://kotakode.com/static/media/community.00c791c0.svg"
