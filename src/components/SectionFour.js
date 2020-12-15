@@ -1,12 +1,12 @@
 const SectionFour = () => {
   return (
-    <div className=" w-6/12 mx-auto bg-green-100 flex items-center py-3 px-3 my-8 rounded-xl">
+    <div className="w-6/12 mx-auto bg-green-100 flex items-center py-3 px-3 my-8 rounded-xl flex-wrap">
       <img
-        className="w-7/12"
+        className="w-7/12 flex-1"
         src="https://kotakode.com/static/media/community.00c791c0.svg"
         alt="sectionFour"
       />
-      <div>
+      <div className="flex-1">
         <h2 className="text-4xl text-gray-500 font-semibold leading-relaxed my-3">
           Gabung <br /> Komunitas <br /> Telegram <br /> Kotakode
         </h2>
